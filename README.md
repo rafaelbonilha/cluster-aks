@@ -126,3 +126,6 @@ sudo az aks install-cli
 echo "Getting access credentials configure kubectl to connect to the ["$aksName"] AKS cluster..."
 az aks get-credentials --name $name --resource-group $resourceGroup
 ```
+
+## Sobre o Autor ##
+Acesse meu perfil e meus posts no dev.tol.: https://dev.to/rafaelbonilha/azure-monitor-praticas-para-garantir-a-confiabilidade-de-vms-no-azure-213d
